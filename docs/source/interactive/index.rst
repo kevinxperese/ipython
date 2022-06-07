@@ -2,10 +2,10 @@
 Tutorial
 ========
 
-This section of IPython documentation will walk you through most of the IPython
-functionality. You do not need to have any deep knowledge of Python to read this
-tutorial, though some sections might make slightly more sense if you have already
-done some work in the classic Python REPL.
+This section of IPython documentation will walk you through most of IPython's 
+functionality. You do not need to have a deep understanding of Python to read
+this tutorial, though some sections might make more sense if you have some
+experience with the classic Python REPL.
 
 .. note::
     
